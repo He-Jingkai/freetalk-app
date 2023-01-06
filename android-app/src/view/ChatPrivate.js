@@ -152,7 +152,7 @@ export default class ChatPrivate extends React.Component {
         createdAt: new Date(),
         user: {
           _id: 50,
-          name: '和敬凯',
+          name: 'hjk',
           avatar: picUri,
         },
       };
@@ -205,7 +205,7 @@ export default class ChatPrivate extends React.Component {
           createdAt: new Date(),
           user: {
             _id: 50,
-            name: '和敬凯',
+            name: 'hjk',
             avatar: picUri,
           },
         };
